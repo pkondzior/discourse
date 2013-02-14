@@ -95,3 +95,6 @@ group :development do
   gem 'pry-rails'  
 end
 
+#punbb2discourse
+gem 'connection_ninja'
+gem 'mysql2', '~> 0.3.11'
